@@ -6,7 +6,7 @@ Passionate about product development and automation I offer a wide spectrum of k
 From infrastructure to UI/UX. 
 From conception to released product
 
-I combine my intuition with my experience to develop simplicity in complex systems in order to produce robust functional solutions. Additionally I leverage my passion and empathic strengths to optimise the experience of the end user.
+I combine my intuition with my experience to develop simplicity in complex systems in order to produce robust functional solutions. Additionally my passion and empathic qualities are leveraged for optimizing the experience of the end user.
 
 ---
 
