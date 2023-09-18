@@ -117,7 +117,10 @@ There are more projects on my GitHub profile that showcase my clean coding style
 
 Starting oktober I'll be available 20-30 hours p/w. I am quickly oriented in new projects and deliver fast.
 
-My rate is €70 / hour. Video consultations are free of charge. You can reach me at:
+My rate is €70 / hour excl VAT. 
+Video consultation free of charge. 
+
+You can reach me at:
 
 ✉️ [yann.vanhalewyn@gmail.com](mailto:yann.vanhalewyn@gmail.com)
 
