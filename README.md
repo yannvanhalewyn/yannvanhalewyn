@@ -25,6 +25,7 @@ I'm a self thought software developer with 8+ years experience, 5+ were spent wr
 - SQL: PostgresQL, MySQL, MariaDB and others
 - NoSQL: MongoDB, CouchDB, DynamoDB and others
 - Graph: Datomic, XTDB, Neo4j and others
+- Infra: AWS, Firebase, Digital Ocean
 
 ## Brightmotive
 
@@ -41,7 +42,7 @@ I'm a self thought software developer with 8+ years experience, 5+ were spent wr
 - 60+ tenants running large volumes of transanctions served by a handful of efficient servers
 - Daily releases
 - Full stack Clojure / Clojurescript
-- Service oriented system design but deployed as a single jar
+- Service oriented system design but deployed as a single container
 - Small team of only 2 - 3 developers
 
 ## Pilloxa
@@ -50,9 +51,9 @@ I'm a self thought software developer with 8+ years experience, 5+ were spent wr
 
 1.5 years maintaining and developing a mobile application for a Swedish company in the pharmaceutical and clinical trials industry.
 
-- B2C iOS / android application through React Native w/ ClojureScript
-- Hardware connection via bluetooth (for a physical pillbox)
-- Firmware update management from repository to pillbox via user's device
+- B2C iOS / Android application through React Native with ClojureScript
+- Hardware connection to a physical pillbox via bluetooth
+- Firmware update management from AWS repository to pillbox via user's device
 - Understanding and implementing complex regulatory requirements
 - Maintaining and updating older legacy codebase
 
@@ -60,7 +61,7 @@ I worked by myself for 1 year and carried the product development, UI/UX design 
 
 ## Miscelaneous jobs
 
-In between I have worked on projects and helped clients develop features in their websites or systems. Some examples range from maintaining the adverts scheduler for the large DPG Media, developing a CMS with frontend websites for the Dutch broadcasting system NPO down to helping a mediterenean wine salesman refine his webshop over a couple of weeks.
+In between I have worked on projects and helped clients develop features in their websites or systems. Some examples range from maintaining the adverts scheduler for the large DPG Media, developing a CMS with frontend websites for NPO, the Dutch public broadcasting system, down to helping a mediterenean wine salesman refine his webshop over a couple of weeks.
 
 ---
 
@@ -94,7 +95,9 @@ A fantasy MMORPG geared towards showing humans an experience of building a socie
 
 ## Boyscout
 
-For a simple and quick demo of what my work can look like, there's Boyscout, a pathfinding visualizer. [Boyscout Visualizer](https://yannvanhalewyn.github.io/boyscout/). (It's meant for a laptop screen, not optimized for mobile)
+Visualize path finding algorithms 🧭 https://yannvanhalewyn.github.io/boyscout
+
+For a simple and quick demo of what my work can look like, try out Boyscout, a pathfinding visualizer.  It's meant for a laptop screen, not optimized for mobile
 
 Tap the Boyscout logo for a neat surprise and a taste of my creativity and attention to detail!
 
@@ -110,7 +113,7 @@ Starting oktober I'll be available 20-30 hours p/w. I am quickly oriented in new
 
 My rate is €70 / hour. Video consultations are free of charge. You can reach me at:
 
-[yann.vanhalewyn@gmail.com](mailto:yann.vanhalewyn@gmail.com)
+✉️ [yann.vanhalewyn@gmail.com](mailto:yann.vanhalewyn@gmail.com)
 
 Let's build cool stuff together!
 
