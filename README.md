@@ -1,45 +1,117 @@
-## Hey There, Let's Build Cool Stuff Together! 🚀
+# Hi, I'm Yann 👋
 
-Hey devs, product people and musicians! 👋 Are you on the lookout for a passionate software engineer and product developer to solve some problems? Well, look no further! I'm here and ready to dive into the world of innovative product development with you. 🛠️
+**Let's Build Beautiful Things Together! 🚀**
 
-### About Me 🎸
+Passionate about product development and automation I offer a wide spectrum of knowledge, experience and skills.
+From infrastructure to UI/UX. 
+From conception to released product
+
+I combine my intuition with my experience to develop simplicity in complex systems in order to produce robust functional solutions. Additionally I leverage my passion and empathic strengths to optimise the experience of the end user.
+
 ---
 
-I'm a self thought software developer with 8+ years experience, 5+ are writing Clojure. Besides crafting code, I'm also have ambitions in the arts of music and am looking to combine both passions in a personal project.
+# 💼 Experience 
 
-#### Brightmotive: B2B carparts made easy 🚗
+I'm a self thought software developer with 8+ years experience, 5+ were spent writing **Clojure / Clojurescript** as I believe this to be the best tool for many jobs. Besides that I have worked in just about any modern tech stack:
 
-I spent over 5 years at Brightmotive ([www.brightmotive.com](https://www.brightmotive.com)), diving deep into APIs, databases, and microservice architectures but running in a monolith, because who wants to manage such an infrastructure! We aimed for a seamless user experience and made a great international product fueled by a shared love of building beautuful things.
+- Ruby on/off Rails
+- Python
+- PHP
+- JavaScript (+React / React Native)
+- Node (+Express)
+- HTML/CSS (+portability / accessibility)
+- C, C++
+- Java / Kotlin / Scala
+- SQL: PostgresQL, MySQL, MariaDB and others
+- NoSQL: MongoDB, CouchDB, DynamoDB and others
+- Graph: Datomic, XTDB, Neo4j and others
 
-#### Pilloxa: making people healthier through technology 💊
+## Brightmotive
 
-In the world of Medicinal Technologies, I later spent 1.5 years at Pilloxa ([www.pilloxa.com](https://www.pilloxa.com)) leveraging React Native for developing an iOS and Android application that along with some hardware / bluetooth wizardry was aimed at helping patients in support programs and clinical trials stay healthy. 📱
+**B2B carparts made easy** 🚗 [www.brightmotive.com](https://www.brightmotive.com) 
 
-### Keeping it Playful 🎨
+3+ years developing the system from greenfield stage to what is now an international competitive product.
 
-But hey, it's not all serious code and debugging. Check out Boyscout, a pathfinding visualizer I whipped up. Take it for a spin here: [Boyscout Visualizer](https://yannvanhalewyn.github.io/boyscout/). (Use on laptop screen, not responsive)
+- B2B system for carpart wholesalers
+- Full stack Clojure / Clojurescript
+- 20+ API integrations
+- 60+ databases
+- Advanced secure configuration systems
+- Real time complex stock, routing and delivery time systems
+- 60+ tenants running large volumes of transanctions served by a handful of efficient servers
+- Daily releases
+- Full stack Clojure / Clojurescript
+- Service oriented system design but deployed as a single jar
+- Small team of only 2 - 3 developers
 
-Oh, and tap the Boyscout logo for a neat surprise. A taste of my creativity and attention to detail!
+## Pilloxa
 
-### Open Source 🏛
+**Making people healthier through technology**  💊 [www.pilloxa.com](https://www.pilloxa.com)
+
+1.5 years maintaining and developing a mobile application for a Swedish company in the pharmaceutical and clinical trials industry.
+
+- B2C iOS / android application through React Native w/ ClojureScript
+- Hardware connection via bluetooth (for a physical pillbox)
+- Firmware update management from repository to pillbox via user's device
+- Understanding and implementing complex regulatory requirements
+- Maintaining and updating older legacy codebase
+
+I worked by myself for 1 year and carried the product development, UI/UX design as well as delivering features.
+
+## Miscelaneous jobs
+
+In between I have worked on projects and helped clients develop features in their websites or systems. Some examples range from maintaining the adverts scheduler for the large DPG Media, developing a CMS with frontend websites for the Dutch broadcasting system NPO down to helping a mediterenean wine salesman refine his webshop over a couple of weeks.
+
+---
+
+# 🌐 Open Source
 
 I've have developed and open sourced [Pottery](https://github.com/brightin/pottery), an open-source library to leverage industry-standard PO translation files from Clojure.
 
-### Explore some more 🗺
-
-Wander around my GitHub profile to explore more Clojure projects and see my coding style: GitHub Profile.
-
-### Need help?
 ---
 
-Are you looking for someone with a bread skillset to help out developing a tool, app, prototype, script or website? Or do you seek someone to help train and coach Clojure developers to raise the skill level of your team? I am available for half time contract work and my typical rate is 60€ per hour. Feel free to reach out at:
+# 🎨 Passion Projects 
+
+Beside the art of crafting beautiful code, I also have ambitions in music and am looking to combine both passions in a personal project.
+
+## Bardistry
+
+Helping singer songwriters perform their songs  🎤 https://github.com/yannvanhalewyn/bardistry
+
+A native iOS / Android application optimized for tablets to support singer songwriters manage and perform their setlists and lyrics. The codebase is shared between frontend and backend and uses Biff with XTDB for immutable awesomeness.
+
+## CEV Engine
+
+Real time music visualisations engine 👾 https://github.com/yannvanhalewyn/wolftrap-visuals
+
+An graphics engine build on OpenGL using Clojure that can take MIDI information to generate real time complicated and mathematical visual experiences in support of the music.
+
+## Realms of Inner Magic 
+
+Build the next generation society 🧙 https://github.com/yannvanhalewyn/realms-of-inner-magic
+
+A fantasy MMORPG geared towards showing humans an experience of building a society based on unconditional love.
+
+## Boyscout
+
+For a simple and quick demo of what my work can look like, there's Boyscout, a pathfinding visualizer. [Boyscout Visualizer](https://yannvanhalewyn.github.io/boyscout/). (It's meant for a laptop screen, not optimized for mobile)
+
+Tap the Boyscout logo for a neat surprise and a taste of my creativity and attention to detail!
+
+---
+
+There are more projects on my GitHub profile that showcase my clean coding style.
+
+---
+
+# Recruitment 📥
+
+Starting oktober I'll be available 20-30 hours p/w. I am quickly oriented in new projects and deliver fast.
+
+My rate is €70 / hour. Video consultations are free of charge. You can reach me at:
 
 [yann.vanhalewyn@gmail.com](mailto:yann.vanhalewyn@gmail.com)
 
 Let's build cool stuff together!
 
 Yann Vanhalewyn
-
-
-
-
