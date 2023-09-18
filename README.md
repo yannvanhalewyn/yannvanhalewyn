@@ -61,7 +61,13 @@ I worked by myself for 1 year and carried the product development, UI/UX design 
 
 ## Miscelaneous jobs
 
-In between I have worked on projects and helped clients develop features in their websites or systems. Some examples range from maintaining the adverts scheduler for the large DPG Media, developing a CMS with frontend websites for NPO, the Dutch public broadcasting system, down to helping a mediterenean wine salesman refine his webshop over a couple of weeks.
+In between I have worked on projects and helped clients develop features in their websites or systems. Some examples are:
+
+- DPG Media: maintaining the adverts scheduler 
+- NPO: developing a CMS with frontend websites for the Dutch public broadcasting system
+- Blackfish: synchronizing their LightSpeed retail API to a PostgresQL database in order to build a MetaBase dashboard for insights. The code is open sourced: https://github.com/yannvanhalewyn/blackfish-metrics
+
+All the way down to helping a mediterenean wine salesman refine his webshop over a couple of weeks and other off jobs.
 
 ---
 
