@@ -117,8 +117,10 @@ There are more projects on my GitHub profile that showcase my clean coding style
 
 Starting oktober I'll be available 20-30 hours p/w. I am quickly oriented in new projects and deliver fast.
 
-My rate is €70 / hour excl VAT. 
-Video consultation free of charge. 
+My rate is €70 / hour excl VAT. Video consultation free of charge.
+
+For defined projects I like working with a fixed price according to an analysis of requirements.
+I would love to invest my skills to make a contribution to human wellbeing. For a non profit or a social cause, let's discuss a rate that works for us.
 
 You can reach me at:
 
