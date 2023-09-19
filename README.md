@@ -126,6 +126,6 @@ You can reach me at:
 
 ✉️ [yann.vanhalewyn@gmail.com](mailto:yann.vanhalewyn@gmail.com)
 
-Let's build cool stuff together!
+**Let's Build Beautiful Things Together! 🚀**
 
 Yann Vanhalewyn
