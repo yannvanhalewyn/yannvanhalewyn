@@ -115,7 +115,7 @@ There are more projects on my GitHub profile that showcase my clean coding style
 
 # Recruitment 📥
 
-Starting oktober I'll be available 20-30 hours p/w. I am quickly oriented in new projects and deliver fast.
+I'm currently available 20-30 hours p/w. I am quickly oriented in new projects and deliver fast.
 
 My rate is €70 / hour excl VAT. Video consultation free of charge.
 
