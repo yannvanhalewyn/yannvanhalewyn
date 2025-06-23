@@ -3,14 +3,14 @@
 **Let's Build Cool Things Together! 🚀**
 
 Passionate about product development I offer a wide spectrum of knowledge, experience and skills.
-From infrastructure to UI/UX. 
+From infrastructure to UI/UX.
 From conception to released product
 
 I combine my intuition with my experience to develop simplicity in complex systems in order to produce robust functional solutions. Additionally my passion and empathic qualities are leveraged for optimizing the experience of the end user.
 
 ---
 
-# 💼 Experience 
+# 💼 Experience
 
 I'm a self thought software developer with 10 years experience, 7+ were spent writing **Clojure / Clojurescript** as I believe this to be the best tool for many jobs. Besides that I have worked in just about any modern tech stack:
 
@@ -26,10 +26,36 @@ I'm a self thought software developer with 10 years experience, 7+ were spent wr
 - NoSQL: MongoDB, CouchDB, DynamoDB and others
 - Graph: Datomic, XTDB, Neo4j and others
 - Infra: AWS, Firebase, Digital Ocean
+- Shell scripting, git, CI/CD and other typical development tools
 
-## Brightmotive
+## ArQiver nov. 2023 - present
 
-**B2B carparts made easy** 🚗 [www.brightmotive.com](https://www.brightmotive.com) 
+**Ensuring an equal information position for all** 📎 [www.arqiver.com](https://www.arqiver.com)
+
+1.5 years developping a distributed system of archives between organisations, governments and citizens.
+
+- Clojure, HTMX, Hyperscript (and Malli, Reitit and other usual suspects)
+- B2B and B2C, offering many design challenges
+- Developping features for distributed systems
+- Working within complexitities of GDPR and other privacy laws
+
+## Pilloxa - (2021 - 2023)
+
+**Making people healthier through technology**  💊 [www.pilloxa.com](https://www.pilloxa.com)
+
+1.5 years maintaining and developing a mobile application for a Swedish company in the pharmaceutical and clinical trials industry.
+
+- B2C iOS / Android application through React Native with ClojureScript
+- Hardware connection to a physical pillbox via bluetooth
+- Firmware update management from AWS repository to pillbox via user's device
+- Understanding and implementing complex regulatory requirements
+- Maintaining and updating older legacy codebase
+
+I worked by myself for 1 year and carried the product development, UI/UX design as well as delivering features.
+
+## Brightmotive (2017 - 2020 and again in 2023)
+
+**B2B carparts made easy** 🚗 [www.brightmotive.com](https://www.brightmotive.com)
 
 3+ years developing the system from greenfield stage to what is now an international competitive product.
 
@@ -45,36 +71,11 @@ I'm a self thought software developer with 10 years experience, 7+ were spent wr
 - Service oriented system design but deployed as a single container
 - Small team of only 2 - 3 developers
 
-## Pilloxa
-
-**Making people healthier through technology**  💊 [www.pilloxa.com](https://www.pilloxa.com)
-
-1.5 years maintaining and developing a mobile application for a Swedish company in the pharmaceutical and clinical trials industry.
-
-- B2C iOS / Android application through React Native with ClojureScript
-- Hardware connection to a physical pillbox via bluetooth
-- Firmware update management from AWS repository to pillbox via user's device
-- Understanding and implementing complex regulatory requirements
-- Maintaining and updating older legacy codebase
-
-I worked by myself for 1 year and carried the product development, UI/UX design as well as delivering features.
-
-## ArQiver
-
-**Ensuring an equal information position for all** 📎 [www.arqiver.com](https://www.arqiver.com)
-
-1.5 years developping a distributed system of archives between organisations, governments and citizens.
-
-- Clojure, HTMX, Hyperscript (and Malli, Reitit and other usual suspects)
-- B2B and B2C, offering many design challenges
-- Developping features for distributed systems
-- Working within complexitities of GDPR and other privacy laws
-
 ## Miscelaneous jobs
 
 In between I have worked on projects and helped clients develop features in their websites or systems. Some examples are:
 
-- DPG Media: maintaining the adverts scheduler 
+- DPG Media: maintaining the adverts scheduler
 - NPO: developing a CMS with frontend websites for the Dutch public broadcasting system
 - Blackfish: synchronizing their LightSpeed retail API to a PostgresQL database in order to build a MetaBase dashboard for insights. The code is open sourced: https://github.com/yannvanhalewyn/blackfish-metrics
 
@@ -88,7 +89,7 @@ I've have developed and open sourced [Pottery](https://github.com/brightin/potte
 
 ---
 
-# 🎨 Passion Projects 
+# 🎨 Passion Projects
 
 Beside the art of crafting beautiful code, I also have ambitions in music and am looking to combine both passions in a personal project.
 
@@ -104,7 +105,7 @@ Real time music visualisations engine 👾 https://github.com/yannvanhalewyn/wol
 
 An graphics engine build on OpenGL using Clojure that can take MIDI information to generate real time complicated and mathematical visual experiences in support of the music.
 
-## Realms of Inner Magic 
+## Realms of Inner Magic
 
 Build the next generation society 🧙 https://github.com/yannvanhalewyn/realms-of-inner-magic
 
@@ -126,9 +127,9 @@ There are more projects on my GitHub profile that showcase my clean coding style
 
 # Recruitment 📥
 
-I'm currently available 20-30 hours p/w. I am quickly oriented in new projects and deliver fast.
+I'm currently available 20 hours p/w. I am quickly oriented in new projects and deliver fast.
 
-My rate is € 80 / hour excl VAT. Video consultation free of charge.
+My rate is € 90 / hour excl VAT. Video consultation free of charge. Open to negoatiate.
 
 For defined projects I like working with a fixed price according to an analysis of requirements.
 I would love to invest my skills to make a contribution to human wellbeing. For a non profit or a social cause, let's discuss a rate that works for us.
