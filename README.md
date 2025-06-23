@@ -1,8 +1,8 @@
 # Hi, I'm Yann 👋
 
-**Let's Build Beautiful Things Together! 🚀**
+**Let's Build Cool Things Together! 🚀**
 
-Passionate about product development and automation I offer a wide spectrum of knowledge, experience and skills.
+Passionate about product development I offer a wide spectrum of knowledge, experience and skills.
 From infrastructure to UI/UX. 
 From conception to released product
 
@@ -12,7 +12,7 @@ I combine my intuition with my experience to develop simplicity in complex syste
 
 # 💼 Experience 
 
-I'm a self thought software developer with 8+ years experience, 5+ were spent writing **Clojure / Clojurescript** as I believe this to be the best tool for many jobs. Besides that I have worked in just about any modern tech stack:
+I'm a self thought software developer with 10 years experience, 7+ were spent writing **Clojure / Clojurescript** as I believe this to be the best tool for many jobs. Besides that I have worked in just about any modern tech stack:
 
 - Ruby on/off Rails
 - Python
@@ -58,6 +58,17 @@ I'm a self thought software developer with 8+ years experience, 5+ were spent wr
 - Maintaining and updating older legacy codebase
 
 I worked by myself for 1 year and carried the product development, UI/UX design as well as delivering features.
+
+## ArQiver
+
+**Ensuring an equal information position for all** 📎 [www.arqiver.com](https://www.arqiver.com)
+
+1.5 years developping a distributed system of archives between organisations, governments and citizens.
+
+- Clojure, HTMX, Hyperscript (and Malli, Reitit and other usual suspects)
+- B2B and B2C, offering many design challenges
+- Developping features for distributed systems
+- Working within complexitities of GDPR and other privacy laws
 
 ## Miscelaneous jobs
 
