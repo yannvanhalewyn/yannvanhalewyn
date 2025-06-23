@@ -28,7 +28,7 @@ I'm a self thought software developer with 10 years experience, 7+ were spent wr
 - Infra: AWS, Firebase, Digital Ocean
 - Shell scripting, git, CI/CD and other typical development tools
 
-## ArQiver nov. 2023 - present
+## ArQiver *(nov. 2023 - present)*
 
 **Ensuring an equal information position for all** 📎 [www.arqiver.com](https://www.arqiver.com)
 
@@ -39,7 +39,7 @@ I'm a self thought software developer with 10 years experience, 7+ were spent wr
 - Developping features for distributed systems
 - Working within complexitities of GDPR and other privacy laws
 
-## Pilloxa - (2021 - 2023)
+## Pilloxa *(2021 - 2023)*
 
 **Making people healthier through technology**  💊 [www.pilloxa.com](https://www.pilloxa.com)
 
@@ -53,7 +53,7 @@ I'm a self thought software developer with 10 years experience, 7+ were spent wr
 
 I worked by myself for 1 year and carried the product development, UI/UX design as well as delivering features.
 
-## Brightmotive (2017 - 2020 and again in 2023)
+## Brightmotive *(2017 - 2020 and again in 2023)*
 
 **B2B carparts made easy** 🚗 [www.brightmotive.com](https://www.brightmotive.com)
 
