@@ -2,17 +2,15 @@
 
 **Let's Build Cool Things Together! 🚀**
 
-Passionate about product development I offer a wide spectrum of knowledge, experience and skills.
-From infrastructure to UI/UX.
-From conception to released product
+Passionate about product development, I offer a wide spectrum of knowledge, experience and skills. From infrastructure to UI/UX, from conception to released product, I provide value every step of the way.
 
-I combine my intuition with my experience to develop simplicity in complex systems in order to produce robust functional solutions. Additionally my passion and empathic qualities are leveraged for optimizing the experience of the end user.
+I love untangling complexity to create simple solutions that just work. For me the best code isn't just functional, it feels right to use. I bring genuine empathy and intuition to every project, always thinking about the real people on the other side of the screen and how I can make their day a little easier.
 
 ---
 
 # 💼 Experience
 
-I'm a self thought software developer with 10 years experience, 7+ were spent writing **Clojure / Clojurescript** as I believe this to be the best tool for many jobs. Besides that I have worked in just about any modern tech stack:
+I'm a self-taught software developer with 10 years experience, 8+ were spent writing **Clojure / Clojurescript** as I believe this to be the best tool for many jobs. Besides that I have worked in just about any modern tech stack:
 
 - Ruby on/off Rails
 - Python
@@ -22,24 +20,25 @@ I'm a self thought software developer with 10 years experience, 7+ were spent wr
 - HTML/CSS (+portability / accessibility)
 - C, C++
 - Java / Kotlin / Scala
-- SQL: PostgresQL, MySQL, MariaDB and others
-- NoSQL: MongoDB, CouchDB, DynamoDB and others
-- Graph: Datomic, XTDB, Neo4j and others
+- SQL: PostgresQL, MySQL, MariaDB
+- NoSQL: MongoDB, CouchDB, DynamoDB
+- Other DBs: Datomic, XTDB, Neo4j
 - Infra: AWS, Firebase, Digital Ocean
-- Shell scripting, git, CI/CD and other typical development tools
+- Bash, git, CI/CD and typical development tools
 
 ## ArQiver *(nov. 2023 - present)*
 
 **Ensuring an equal information position for all** 📎 [www.arqiver.com](https://www.arqiver.com)
 
-1.5 years developping a distributed system of archives between organisations, governments and citizens.
+2 years developing a distributed system of archives between organisations, governments and citizens.
 
-- Clojure, HTMX, Hyperscript (and Malli, Reitit and other usual suspects)
-- B2B and B2C, offering many design challenges
-- Developping features for distributed systems
-- Working within complexitities of GDPR and other privacy laws
+- Clojure, HTMX, Hyperscript, Malli, Reitit
+- Sophisticated data exchange platform solving difficult security, privacy and legal compliance problems
+- B2B and B2C, solving many design challenges
+- Developing features for distributed systems
+- Working within complexities of GDPR and other privacy laws
 
-## Pilloxa *(2021 - 2023)*
+## Pilloxa *(2022 - 2023)*
 
 **Making people healthier through technology**  💊 [www.pilloxa.com](https://www.pilloxa.com)
 
@@ -61,17 +60,15 @@ I worked by myself for 1 year and carried the product development, UI/UX design 
 
 - B2B system for carpart wholesalers
 - Full stack Clojure / Clojurescript
-- 20+ API integrations
-- 60+ databases
+- 100+ tenants, each with own databases and ~12 API/ERP integrations
 - Advanced secure configuration systems
 - Real time complex stock, routing and delivery time systems
-- 60+ tenants running large volumes of transanctions served by a handful of efficient servers
+- Large volumes of transactions served by a handful of efficient servers
 - Daily releases
-- Full stack Clojure / Clojurescript
 - Service oriented system design but deployed as a single container
 - Small team of only 2 - 3 developers
 
-## Miscelaneous jobs
+## Miscellaneous jobs
 
 In between I have worked on projects and helped clients develop features in their websites or systems. Some examples are:
 
@@ -79,7 +76,7 @@ In between I have worked on projects and helped clients develop features in thei
 - NPO: developing a CMS with frontend websites for the Dutch public broadcasting system
 - Blackfish: synchronizing their LightSpeed retail API to a PostgresQL database in order to build a MetaBase dashboard for insights. The code is open sourced: https://github.com/yannvanhalewyn/blackfish-metrics
 
-All the way down to helping a mediterenean wine salesman refine his webshop over a couple of weeks and other off jobs.
+All the way down to helping a Mediterranean wine salesman refine his webshop over a couple of weeks and other off jobs.
 
 ---
 
@@ -94,24 +91,28 @@ I've have developed and open sourced [Pottery](https://github.com/brightin/potte
 Beside the art of crafting beautiful code, I also have ambitions in music and am looking to combine both passions in a personal project.
 
 ## Bardistry
+*A performance companion app for singer-songwriters*
 
 Helping singer songwriters perform their songs  🎤 https://github.com/yannvanhalewyn/bardistry
 
 A native iOS / Android application optimized for tablets to support singer songwriters manage and perform their setlists and lyrics. The codebase is shared between frontend and backend and uses Biff with XTDB for immutable awesomeness.
 
 ## CEV Engine
+*MIDI-driven real-time graphics engine*
 
 Real time music visualisations engine 👾 https://github.com/yannvanhalewyn/wolftrap-visuals
 
 An graphics engine build on OpenGL using Clojure that can take MIDI information to generate real time complicated and mathematical visual experiences in support of the music.
 
 ## Realms of Inner Magic
+*A social experiment disguised as an MMORPG*
 
 Build the next generation society 🧙 https://github.com/yannvanhalewyn/realms-of-inner-magic
 
 A fantasy MMORPG geared towards showing humans an experience of building a society based on unconditional love.
 
 ## Boyscout
+*Interactive pathfinding algorithm visualizer*
 
 Visualize path finding algorithms 🧭 https://yannvanhalewyn.github.io/boyscout
 
@@ -129,10 +130,10 @@ There are more projects on my GitHub profile that showcase my clean coding style
 
 I'm currently available 20 hours p/w. I am quickly oriented in new projects and deliver fast.
 
-My rate is € 90 / hour excl VAT. Video consultation free of charge. Open to negoatiate.
+My base rate is € 80 / hour excl VAT. Video consultation free of charge. Open to negotiate a more suitable price for long running projects.
 
-For defined projects I like working with a fixed price according to an analysis of requirements.
-I would love to invest my skills to make a contribution to human wellbeing. For a non profit or a social cause, let's discuss a rate that works for us.
+For scoped projects I like working with a fixed price according to an analysis of requirements.
+I would love to invest my skills to make a contribution to human well-being. For a non profit or a social cause, let's discuss a rate that works for us.
 
 You can reach me at:
 
