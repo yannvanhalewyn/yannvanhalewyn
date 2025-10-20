@@ -82,7 +82,26 @@ All the way down to helping a Mediterranean wine salesman refine his webshop ove
 
 # 🌐 Open Source
 
-I've have developed and open sourced [Pottery](https://github.com/brightin/pottery), an open-source library to leverage industry-standard PO translation files from Clojure.
+I've developed and open sourced several tools to solve real developer problems:
+
+## Pottery
+
+🔗 [github.com/brightin/pottery](https://github.com/brightin/pottery)
+
+An open-source library to leverage industry-standard PO translation files from Clojure.
+
+## PrStack
+
+*VCS-agnostic CLI tool for effortless PR stack management*
+
+🔗 [github.com/yannvanhalewyn/prstack](https://github.com/yannvanhalewyn/prstack)
+
+A CLI and TUI application that embraces the chaos of day-to-day development by dynamically discovering PR stacks instead of forcing rigid pre-defined structures. Unlike traditional tools that require upfront planning, PrStack adapts to whatever shape your development tree has taken.
+
+- Built with Clojure and Babashka for cross-platform compatibility
+- Supports Jujutsu (branchless VCS) with Git support coming soon
+- Features both interactive TUI and scriptable CLI commands
+- Automatic stack synchronization and PR creation
 
 ---
 
@@ -103,13 +122,6 @@ A native iOS / Android application optimized for tablets to support singer songw
 Real time music visualisations engine 👾 https://github.com/yannvanhalewyn/wolftrap-visuals
 
 An graphics engine build on OpenGL using Clojure that can take MIDI information to generate real time complicated and mathematical visual experiences in support of the music.
-
-## Realms of Inner Magic
-*A social experiment disguised as an MMORPG*
-
-Build the next generation society 🧙 https://github.com/yannvanhalewyn/realms-of-inner-magic
-
-A fantasy MMORPG geared towards showing humans an experience of building a society based on unconditional love.
 
 ## Boyscout
 *Interactive pathfinding algorithm visualizer*
