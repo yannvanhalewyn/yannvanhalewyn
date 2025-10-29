@@ -4,7 +4,9 @@
 
 Passionate about product development, I offer a wide spectrum of knowledge, experience and skills. From infrastructure to UI/UX, from conception to released product, I provide value every step of the way.
 
-I love untangling complexity to create simple solutions that just work. For me the best code isn't just functional, it feels right to use. I bring genuine empathy and intuition to every project, always thinking about the real people on the other side of the screen and how I can make their day a little easier.
+I love untangling complexity to create simple solutions that just work. For me the best code isn't just functional, it feels right to use. I see an art form in building well-structured and documented codebases where the code requires minimal knowledge transfer for collaboration.
+
+I bring genuine empathy and intuition to every project, always thinking about the real people on the other side of the screen and how I can make their day a little easier.
 
 ---
 
